@@ -21,6 +21,7 @@ El análisis se desarrolló íntegramente en **R**, empleando un enfoque econom�
 * **Probabilidad de Precio Alto:** Según los Efectos Marginales Promedio (AMEs), un punto adicional en calidad aumenta en un **8,67%** la probabilidad de que una vivienda pertenezca al segmento de lujo.
 
 ## Contenido del Repositorio
+* **' housing_data '**: Base de datos utilizada para el desarrollo del analisi
 * **`Analisis viviendas - Monografia.R`**: Script completo con el procesamiento y análisis de datos.
 * **`Monografia Econometria - Garcia y Dubarry.docx`**: Documento detallado con el marco teórico, metodología y conclusiones.
 * **`Determinantes-del-Precio-de-la-Vivienda.pptx`**: Presentación ejecutiva de los resultados.
