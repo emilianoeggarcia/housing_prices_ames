@@ -1,2 +1,5 @@
 # Determinantes del Precio de la Vivienda: Un análisis econométrico de Ames, Iowa.
-Este proyecto realiza un análisis exhaustivo de los factores que influyen en el valor de los inmuebles en Ames, Iowa (EE. UU.), utilizando la base de datos AmesHousing. El estudio aplica diversos modelos econométricos para descomponer el valor de una vivienda en función de sus atributos físicos, espaciales y cualitativos.Autores: Emiliano García & Mariano Dubarry Institución: Facultad de Ciencias Económicas - Universidad Nacional del Litoral (UNL) Fecha: Octubre 2025 
+Este proyecto realiza un análisis exhaustivo de los factores que influyen en el valor de los inmuebles en Ames, Iowa (EE. UU.), utilizando la base de datos AmesHousing. El estudio aplica diversos modelos econométricos para descomponer el valor de una vivienda en función de sus atributos físicos, espaciales y cualitativos.
+Autores: Emiliano García & Mariano Dubarry
+Institución: Facultad de Ciencias Económicas - Universidad Nacional del Litoral (UNL)
+Fecha: Octubre 2025 
